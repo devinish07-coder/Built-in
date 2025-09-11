@@ -1,1 +1,1 @@
-about python data types 
+about python data types and python basics
